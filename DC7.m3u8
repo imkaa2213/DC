@@ -1,7 +1,0 @@
-#EXTM3U
-#EXTINF:-1,MTV
-http://23.237.104.106:8080/USA_MTV/index.m3u8
-#EXTINF:-1,MTV West
-https://restream-live.realiptv.to/live/Carolrjmiron/u12yT45XGP/21597.ts
-#EXTINF:-1,MTV UK
-http://proxpanel.live:80/live/anderson1/anderson1/709583.ts

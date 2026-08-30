@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1,OWN
+http://23.237.104.106:8080/USA_OWN/index.m3u8
+#EXTINF:-1,OWN West
+https://restream-live.realiptv.to/live/wQO7pspqB4/BhdtLuuZsu/631868.ts

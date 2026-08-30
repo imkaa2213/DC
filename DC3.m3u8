@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1,TBS
+http://4.30.180.36:8420/tbs/index.m3u8?token=test
+#EXTINF:-1,TBS West
+https://turnerlive.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8
